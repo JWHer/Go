@@ -1,7 +1,7 @@
 # Go
 //Copyright 2019.  Jeongwon Her.  All rights reserved.  
 
-##Algorithm project
+## Algorithm project
 Genome search using BWT and goroutine
 
 BWT알고리즘을 goroutin으로 구현하였다  
