@@ -10,4 +10,4 @@ BWT알고리즘을 goroutin으로 구현하였다
 Implemented BWT algorithm with goroutin  
 It takes about 9 minutes to find 1000 reads of 50 lengths in 100 million genomes
 
-![슬라이드4]('./2015112098허정원_프로젝트 발표/슬라이드4.png' "BWT")
+![슬라이드4](./2015112098허정원_프로젝트 발표/슬라이드4.png "BWT")
